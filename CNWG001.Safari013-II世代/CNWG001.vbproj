@@ -1,0 +1,344 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66C45A1F-0480-4164-AD01-F240246D9043}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>CNWG001</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>CNWG001</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CNWG001.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CNWG001.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="TP2920, Version=0.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Users\ks210790\Desktop\CrossNavi_com\bin\TP2920.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.HtmlControls" />
+    <Import Include="System.Web.UI.WebControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CNWG032.aspx.designer.vb">
+      <DependentUpon>CNWG032.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG032.aspx.vb">
+      <DependentUpon>CNWG032.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CNWG051.aspx.designer.vb">
+      <DependentUpon>CNWG051.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG051.aspx.vb">
+      <DependentUpon>CNWG051.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG080.aspx.designer.vb">
+      <DependentUpon>CNWG080.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG080.aspx.vb">
+      <DependentUpon>CNWG080.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CNWG100.aspx.designer.vb">
+      <DependentUpon>CNWG100.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG100.aspx.vb">
+      <DependentUpon>CNWG100.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG101.aspx.designer.vb">
+      <DependentUpon>CNWG101.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG101.aspx.vb">
+      <DependentUpon>CNWG101.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG490.vb" />
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CNWG010.aspx.designer.vb">
+      <DependentUpon>CNWG010.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG010.aspx.vb">
+      <DependentUpon>CNWG010.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG020.aspx.designer.vb">
+      <DependentUpon>CNWG020.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG020.aspx.vb">
+      <DependentUpon>CNWG020.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG022.aspx.designer.vb">
+      <DependentUpon>CNWG022.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG022.aspx.vb">
+      <DependentUpon>CNWG022.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG030.aspx.designer.vb">
+      <DependentUpon>CNWG030.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG030.aspx.vb">
+      <DependentUpon>CNWG030.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG031.aspx.designer.vb">
+      <DependentUpon>CNWG031.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG031.aspx.vb">
+      <DependentUpon>CNWG031.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG040.aspx.designer.vb">
+      <DependentUpon>CNWG040.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG040.aspx.vb">
+      <DependentUpon>CNWG040.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG050.aspx.designer.vb">
+      <DependentUpon>CNWG050.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG050.aspx.vb">
+      <DependentUpon>CNWG050.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG060.aspx.designer.vb">
+      <DependentUpon>CNWG060.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG060.aspx.vb">
+      <DependentUpon>CNWG060.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG070.aspx.designer.vb">
+      <DependentUpon>CNWG070.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG070.aspx.vb">
+      <DependentUpon>CNWG070.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CNWG021.aspx.designer.vb">
+      <DependentUpon>CNWG021.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CNWG021.aspx.vb">
+      <DependentUpon>CNWG021.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Content Include="bin\CNWG001.dll" />
+    <Content Include="bin\CNWG001.pdb" />
+    <Content Include="bin\CNWG001.xml" />
+    <Content Include="bin\CrossNavi【CNWG001】.vdproj" />
+    <Content Include="CNWG020mask.html" />
+    <Content Include="CNWG032.aspx" />
+    <Content Include="CNWG051.aspx" />
+    <Content Include="CNWG080.aspx" />
+    <Content Include="CNWG100.aspx" />
+    <Content Include="CNWG101.aspx" />
+    <Content Include="jquery-3.1.1.min.js" />
+    <Content Include="TP2920.dll" />
+    <Content Include="default.htm" />
+    <Content Include="gif\background.jpg" />
+    <Content Include="gif\SVGA64.gif" />
+    <Content Include="Global.asax" />
+    <Content Include="Styles.css" />
+    <Content Include="TP2990.html" />
+    <Content Include="TP2999.html" />
+    <Content Include="CNWG010.aspx" />
+    <Content Include="CNWG020.aspx" />
+    <Content Include="CNWG022.aspx" />
+    <Content Include="CNWG030.aspx" />
+    <Content Include="CNWG031.aspx" />
+    <Content Include="CNWG040.aspx" />
+    <Content Include="CNWG050.aspx" />
+    <Content Include="CNWG060.aspx" />
+    <Content Include="CNWG070.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="CNWG021.aspx" />
+    <EmbeddedResource Include="CNWG051.aspx.resx">
+      <DependentUpon>CNWG051.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG100.aspx.resx">
+      <DependentUpon>CNWG100.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG101.aspx.resx">
+      <DependentUpon>CNWG101.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global.asax.resx">
+      <DependentUpon>Global.asax.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG010.aspx.resx">
+      <DependentUpon>CNWG010.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG020.aspx.resx">
+      <DependentUpon>CNWG020.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG022.aspx.resx">
+      <DependentUpon>CNWG022.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG030.aspx.resx">
+      <DependentUpon>CNWG030.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG031.aspx.resx">
+      <DependentUpon>CNWG031.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG040.aspx.resx">
+      <DependentUpon>CNWG040.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG050.aspx.resx">
+      <DependentUpon>CNWG050.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG060.aspx.resx">
+      <DependentUpon>CNWG060.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG070.aspx.resx">
+      <DependentUpon>CNWG070.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNWG021.aspx.resx">
+      <DependentUpon>CNWG021.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="CNWG001.vsdisco" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>4375</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/CNWG001</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

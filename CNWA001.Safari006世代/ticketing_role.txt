@@ -1,0 +1,7 @@
+{"code":"0",
+"role":[
+	 {"role_name":"t_central","ip_address":"192.168.194.206"}
+	,{"role_name":"t_customer","ip_address":"192.168.194.207"}
+	,{"role_name":"t_display","ip_address":"192.168.194.209"}
+	,{"role_name":"t_printer","ip_address":"192.168.194.70"}
+]}

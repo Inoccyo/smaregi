@@ -1,0 +1,612 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D890E6A6-847C-44E3-8897-3030577F1EE7}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>CNL1501</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>CNL1501</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>http://localhost/CNL1501/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CNL1501.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CNL1501.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.Common, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=969db8053d3322ac">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Windows\SysWOW64\System.Data.Common.DLL</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Drawing.Design">
+      <Name>System.Drawing.Design</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting">
+      <Name>System.Runtime.Remoting</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="TP1901, Version=1.0.1593.32027, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\TP1001\Src\bin\TP1901.dll</HintPath>
+    </Reference>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CNL1554.Designer.vb">
+      <DependentUpon>CNL1554.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CNL1554.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1911.vb" />
+    <Compile Include="CNL1940.vb" />
+    <Compile Include="CNL2010.Designer.vb">
+      <DependentUpon>CNL2010.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CNL2010.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2020.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2030.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2031.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2060.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2061.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2110.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2120.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2130.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2140.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2141.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL2142.Designer.vb">
+      <DependentUpon>CNL2142.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CNL2142.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Json\SmaregiItem.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CNL1510.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1511.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1520.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1530.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1531.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1532.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1533.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1534.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1540.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1541.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1542.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1550.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1551.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1552.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1553.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1560.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1561.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1570.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1571.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1580.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1581.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1582.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1583.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1600.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1601.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1610.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1620.vb">
+      <DependentUpon>CNL1620.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="CNL1630.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1640.vb">
+      <DependentUpon>CNL1640.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="CNL1650.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1660.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1670.vb">
+      <DependentUpon>CNL1670.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="CNL1710.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1720.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1721.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1810.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1820.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNL1910.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CNL1920.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CNL1930.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CNL2080.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="CNL1554.resx">
+      <DependentUpon>CNL1554.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2010.resx">
+      <DependentUpon>CNL2010.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2020.resx">
+      <DependentUpon>CNL2020.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2030.resx">
+      <DependentUpon>CNL2030.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2031.resx">
+      <DependentUpon>CNL2031.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2060.resx">
+      <DependentUpon>CNL2060.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2061.resx">
+      <DependentUpon>CNL2061.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2110.resx">
+      <DependentUpon>CNL2110.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2120.resx">
+      <DependentUpon>CNL2120.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2130.resx">
+      <DependentUpon>CNL2130.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2140.resx">
+      <DependentUpon>CNL2140.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2141.resx">
+      <DependentUpon>CNL2141.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2142.resx">
+      <DependentUpon>CNL2142.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1510.resx">
+      <DependentUpon>CNL1510.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1511.resx">
+      <DependentUpon>CNL1511.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1520.resx">
+      <DependentUpon>CNL1520.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1530.resx">
+      <DependentUpon>CNL1530.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1531.resx">
+      <DependentUpon>CNL1531.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1532.resx">
+      <DependentUpon>CNL1532.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1533.resx">
+      <DependentUpon>CNL1533.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1534.resx">
+      <DependentUpon>CNL1534.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1540.resx">
+      <DependentUpon>CNL1540.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1541.resx">
+      <DependentUpon>CNL1541.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1542.resx">
+      <DependentUpon>CNL1542.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1550.resx">
+      <DependentUpon>CNL1550.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1551.resx">
+      <DependentUpon>CNL1551.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1552.resx">
+      <DependentUpon>CNL1552.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1553.resx">
+      <DependentUpon>CNL1553.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1560.resx">
+      <DependentUpon>CNL1560.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1561.resx">
+      <DependentUpon>CNL1561.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1570.resx">
+      <DependentUpon>CNL1570.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1571.resx">
+      <DependentUpon>CNL1571.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1580.resx">
+      <DependentUpon>CNL1580.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1581.resx">
+      <DependentUpon>CNL1581.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1582.resx">
+      <DependentUpon>CNL1582.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1583.resx">
+      <DependentUpon>CNL1583.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1600.resx">
+      <DependentUpon>CNL1600.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1601.resx">
+      <DependentUpon>CNL1601.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1610.resx">
+      <DependentUpon>CNL1610.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1620.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CNL1620.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1630.resx">
+      <DependentUpon>CNL1630.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1640.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CNL1640.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1650.resx">
+      <DependentUpon>CNL1650.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1660.resx">
+      <DependentUpon>CNL1660.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1670.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CNL1670.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1710.resx">
+      <DependentUpon>CNL1710.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1720.resx">
+      <DependentUpon>CNL1720.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1721.resx">
+      <DependentUpon>CNL1721.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1810.resx">
+      <DependentUpon>CNL1810.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1820.resx">
+      <DependentUpon>CNL1820.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL1930.resx">
+      <DependentUpon>CNL1930.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNL2080.resx">
+      <DependentUpon>CNL2080.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Image\back2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

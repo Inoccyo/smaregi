@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CNWA001">
+</Property><Property Name="ソリューション ファイル" Value="C:\Inetpub\wwwroot\CNWA001\CNWA001.sln">
+</Property><Property Name="Date" Value="2011年7月29日">
+</Property><Property Name="Time" Value="9:40:38">
+</Property><Property Name="ログ番号" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="C:\Documents and Settings\ks208779\デスクトップ\CrossNavi\CNWA001\CNWA001.vbproj" Source="CNWA001.vbproj" Description="Web サイト 'http://localhost/CNWA001/CNWA001.vbproj' を開けません。  Web サイト 'http://localhost/CNWA001/CNWA001.vbproj' は存在しません。">
+</Event></UpgradeLog>

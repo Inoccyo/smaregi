@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CNWA001
+</name>
+</assembly>
+<members>
+<member name="F:CNWA001.CNWA010.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.btn_Next">
+	<summary>
+btn_Next コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.lbl_status">
+	<summary>
+lbl_status コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.lbl_SeatName">
+	<summary>
+lbl_SeatName コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.lbl_SeatId">
+	<summary>
+lbl_SeatId コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.pnl_IP">
+	<summary>
+pnl_IP コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWA001.CNWA010.lbl_IP">
+	<summary>
+lbl_IP コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

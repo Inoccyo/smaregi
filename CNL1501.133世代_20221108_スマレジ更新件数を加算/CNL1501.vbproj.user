@@ -1,0 +1,69 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ReferencePath>C:\Program Files\Business Objects\Common\2.8\managed\D:\TPCL 1.2\TP1901\bin\;D:\TPCL 1.2\【Source Code】\TP1901\bin\;E:\TPCL\【Source Code】\TP1901\bin\;E:\TPCL\【Source Code】\backup_20040625\CNL1501(クライアント)\TP1901\bin\;E:\TPCL\【Source Code】\CNL1501(クライアント)\TP1901\bin\;C:\TPCL 1.2\【Source Code】\TP1901\bin\;E:\寿司屋\タッチパネルソフト\TP1901\bin\;C:\回転寿司\開発資産\TP1901\bin\;C:\Dドライブ！\OrderNavi\サーバーの開発資産\v1.2\TP1901\Src\bin\;C:\Inetpub\wwwroot\CNL1501\bin\;C:\TPCL\CNL1501\Src\bin\;C:\Dドライブ！\OrderNavi\バージョンアップ大作戦！\CNL1501\Src\bin\;C:\Dドライブ！\OrderNavi\バージョンアップ大作戦！\CNL1501(From ハーリー)\Src\bin\;L:\開発資産\パッケージ開発\02_開発資産\CNL1501\Src\bin\;C:\12インチ\CNL1501\Src\bin\;C:\タッチパネル関係\12インチ\CNL1501\Src\bin\;C:\Documents and Settings\shkkawachi\デスクトップ\Src\bin\;C:\Documents and Settings\shkkawachi\デスクトップ\魚がしアプリ統一\1501\bin\;\\10.129.1.233\share\開発資産\魚がしアプリ統一(15ｲﾝﾁ花板Ver)\CNL1501\bin\;C:\Documents and Settings\ks210790\デスクトップ\CNL1501\bin\;C:\Documents and Settings\ks205763.SORUN-K\デスクトップ\CNL1501\bin\;C:\Documents and Settings\ks210790\デスクトップ\CNL1501_売上速報\bin\;C:\Documents and Settings\soana\デスクトップ\CNL1501\bin\</ReferencePath>
+    <CopyProjectDestinationFolder>
+    </CopyProjectDestinationFolder>
+    <CopyProjectUncPath>
+    </CopyProjectUncPath>
+    <CopyProjectOption>0</CopyProjectOption>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectTrust>0</ProjectTrust>
+    <PublishUrlHistory>http://localhost/CNL1501/</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>ja-JP</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>
+    </StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>
+    </StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+</Project>

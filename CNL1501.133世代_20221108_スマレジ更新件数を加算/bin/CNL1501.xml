@@ -1,0 +1,689 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CNL1501
+</name>
+</assembly>
+<members>
+<member name="T:CNL1501.Json.proc_info_proc_division">
+	<summary>
+ 処理区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.data_rows">
+	<summary>
+ データ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_productId">
+	<summary>
+ 商品ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_categoryId">
+	<summary>
+ 部門ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_productCode">
+	<summary>
+ 商品コード
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_productName">
+	<summary>
+ 商品名
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_taxDivision">
+	<summary>
+ 税区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_productPriceDivision">
+	<summary>
+ 商品価格区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_price">
+	<summary>
+ 商品単価
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_useCategoryReduceTax">
+	<summary>
+ 部門の税設定使用有無
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rows_reduceTaxId">
+	<summary>
+ 軽減税率ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rowsPrice_productId">
+	<summary>
+ 商品ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rowsPrice_storeId">
+	<summary>
+ 店舗ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rowsPrice_priceDivision">
+	<summary>
+ 価格区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rowsPrice_startDate">
+	<summary>
+ 適用開始日
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.rowsPrice_price">
+	<summary>
+ 商品単価
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.transactionGetDataMain_Product">
+	<summary>
+ スマレジ取得情報型(商品テーブル用)
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.transactionGetDataProduct">
+	<summary>
+ スマレジ商品テーブル型
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL1501.Json.errorInfo">
+	<summary>
+ エラー情報型
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_SetCourseGoodsList">
+	<summary>
+ 放題コース商品一覧表示処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_SetGoodsList">
+	<summary>
+ 商品一覧表示処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_CourseDel_Click(System.Object,System.EventArgs)">
+	<summary>
+ [放題コース削除]ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_ChkAlertTime">
+	<summary>
+ 食べ飲み放題通知時間チェック
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_DellCourse">
+	<summary>
+ 放題コース削除処理
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_UpdTPM170(System.String,System.Int32,System.String)">
+	<summary>
+ 放題時間登録処理
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_UpdTPM300(System.String,System.Int32)">
+	<summary>
+ ラストオーダー時間登録処理
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_UpdTPM090(System.String,System.Int32)">
+	<summary>
+ 食べ飲み放題通知時間登録処理
+ </summary>
+	<param name="pNum">1:一回目、2:二回目</param>
+	<param name="pAlerttime">通知時間</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_GetTPM160(System.Data.DataSet@)">
+	<summary>
+ 食べ飲み放題商品マスタ取得処理(食べ飲み放題商品一覧)
+ </summary>
+	<param name="pData"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_GetTPM010(System.Data.DataSet@)">
+	<summary>
+ 商品マスタ取得処理(商品一覧)
+ </summary>
+	<param name="pData"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_GetFreetime(System.Int32@,System.String@)">
+	<summary>
+ 放題時間、色取得
+ </summary>
+	<param name="pFreetime"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_GetTPM160_2(System.String,System.String,System.Boolean@)">
+	<summary>
+ 商品重複チェック
+ </summary>
+	<param name="pGoodsCD"></param>
+	<param name="pExists"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_UpdTPM160(System.String,System.String,System.String)">
+	<summary>
+ 食べ飲み放題商品マスタ更新処理(追加/削除処理)
+ </summary>
+	<param name="pUpdKbn"></param>
+	<param name="pGoodsCD"></param>
+	<param name="pCourseGoodsCD"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_RemoveItems(System.Windows.Forms.ListView.SelectedListViewItemCollection)">
+	<summary>
+ 放題コース商品解除処理
+ </summary>
+	<param name="pTargetData"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Ins_Click(System.Object,System.EventArgs)">
+	<summary>
+ 放題コース登録ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Copy_Click(System.Object,System.EventArgs)">
+	<summary>
+ 放題コースコピーボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.cbo_CourseTitle_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ 放題コース選択時
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_CourseTime_Leave(System.Object,System.EventArgs)">
+	<summary>
+ 放題時間変更時
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_LastCallTime_Leave(System.Object,System.EventArgs)">
+	<summary>
+ ラストオーダー時間変更時
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.cbo_CourseColor_Leave(System.Object,System.EventArgs)">
+	<summary>
+ 色選択時
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_AlertTime1_Leave(System.Object,System.EventArgs)">
+	<summary>
+ 食べ飲み放題通知時間１
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_AlertTime2_Leave(System.Object,System.EventArgs)">
+	<summary>
+ 食べ飲み放題通知時間２
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_CourseTime_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ 放題時間入力制御
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.txt_LastCallTime_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ 放題時間入力制御
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Fol_Click(System.Object,System.EventArgs)">
+	<summary>
+ フォルダ選択ボタン
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.pic_ViewArea_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+	<summary>
+ 画像編集域 再描画時処理(画像選択時)
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.grd_ImgList_Click(System.Object,System.EventArgs)">
+	<summary>
+ 選択画像一覧カレントセル位置変化時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.grd_AdvList_Click(System.Object,System.EventArgs)">
+	<summary>
+ メニュー画像一覧カレントセル位置変化時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Add_Click(System.Object,System.EventArgs)">
+	<summary>
+ 「追加」ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Del_Click(System.Object,System.EventArgs)">
+	<summary>
+ 「削除」ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Up_Click(System.Object,System.EventArgs)">
+	<summary>
+ 「上へ移動」ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.btn_Dwn_Click(System.Object,System.EventArgs)">
+	<summary>
+ 「下へ移動」ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_ChgRank(System.Boolean)">
+	<summary>
+ 画像一覧 表示順位変更処理
+ </summary>
+	<param name="pProcKbn"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_AdvImgDel">
+	<summary>
+ メニュー画像削除処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_SetSelCourseCombo">
+	<summary>
+ 放題コース指定コンボ生成処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_SetSelCourseColorCombo">
+	<summary>
+ 放題コース指定コンボ生成処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_GridSetup_1">
+	<summary>
+ 選択画像一覧グリッド セットアップ処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LS_AdvImgAdd">
+	<summary>
+ 画像追加処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_SaveImage(System.String,System.String)">
+	<summary>
+ メニュー画像保存処理
+ </summary>
+	<param name="pAdvGrpID"></param>
+	<param name="pAdvID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2140.LF_CheckMenuNum">
+	<summary>
+ 放題コースコピーボタン活性/非活性判定（１件以上登録済み：True 登録無し：False）
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2020.btn_SMAREGI_Click(System.Object,System.EventArgs)">
+	<summary>
+ スマレジ - メニューマスタ更新
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2020.UpdSmaregiProductData(System.String@,CNL1501.Json.transactionGetDataMain_Product@)">
+	<summary>
+ スマレジ商品情報を更新する（商品(Product)、商品価格（ProductPrice））
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2020.UpdSmaregiInfo(CNL1501.Json.SmaregiRefParamsJson,CNL1501.Json.SmaregiRefParamsJsonRows,CNL1501.Json.SmaregiRefParamsJsonRowsPrice,System.String@,System.Int32)">
+	<summary>
+ スマレジの更新結果情報を取得し、文字列の状態で返却する
+ </summary>
+	<param name="smaregiRef"></param>
+	<param name="smaregiRefRows"></param>
+	<param name="smaregiRefRowsPrice"></param>
+	<param name="statusValue"></param>
+	<param name="cnt"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2020.LF_GetTPM010(System.Data.DataSet@)">
+	<summary>
+ 商品マスタ一覧を取得する
+ </summary>
+	<param name="pDataSet"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2020.LF_GetTPM010CNT">
+	<summary>
+ 商品マスタ一覧の件数を取得する
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2031.LF_InsTPM600">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：TPM600未存在ﾚｺｰﾄﾞ作成処理
+ 機能概要：TPM010に存在して、TPM600に未存在のレコードをTPM600に作成する
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.08 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2130.LS_UseControl(System.Boolean)">
+	<summary>
+ フォーム制御
+ 本部メニューデータ取込時のコントロールの活性非活性を制御する
+ </summary>
+	<param name="bln"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.CNL2141_Load(System.Object,System.EventArgs)">
+	<summary>
+ フォーム読み込み時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.btn_OK_Click(System.Object,System.EventArgs)">
+	<summary>
+ [決定]ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.LF_GetTPM010Houdai(System.String)">
+	<summary>
+ 同一放題コース名称存在チェック処理
+ </summary>
+	<param name="pHoudaiNM"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.btn_Cancel_Click(System.Object,System.EventArgs)">
+	<summary>
+ [キャンセル]ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.LF_InsertNewCourse">
+	<summary>
+ 放題コース追加処理
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2141.GF_GetNewCourseID(System.String@)">
+	<summary>
+	</summary>
+	<param name="pResultID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:CNL1501.CNL2141">
+	<summary>
+ CrossNavi - 放題コース登録画面
+ </summary>
+	<remarks>2013.03.05 クレスコ北陸 新規作成</remarks>
+</member><member name="M:CNL1501.CNL2142.CNL2142_Load(System.Object,System.EventArgs)">
+	<summary>
+ フォーム読み込み時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2142.btn_OK_Click(System.Object,System.EventArgs)">
+	<summary>
+ [決定]ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2142.LF_GetTPM010Houdai(System.String)">
+	<summary>
+ 同一放題コース名称存在チェック処理
+ </summary>
+	<param name="pHoudaiNM"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2142.btn_Cancel_Click(System.Object,System.EventArgs)">
+	<summary>
+ [キャンセル]ボタン押下時処理
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2142.LF_InsertNewCourse(System.String)">
+	<summary>
+ 放題コース追加処理
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL2142.GF_GetNewCourseID(System.String@)">
+	<summary>
+	</summary>
+	<param name="pResultID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CNL1501.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:CNL1501.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:CNL1501.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="M:CNL1501.CNL1530.LF_InsTPM600">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：TPM600未存在ﾚｺｰﾄﾞ作成処理
+ 機能概要：TPM010に存在して、TPM600に未存在のレコードをTPM600に作成する
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.08 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.LS_SetTaxTypeCombo(System.String)">
+	<summary> 
+ --------------------------------------------------------------------------------
+ 機　　能：税ステータスコンボ作成処理
+ 機能概要：税ステータスのコンボボックスを作成する
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.08 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.chk_MenuCdEdit_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：メニューコード編集フラグ変更時処理
+ 機能概要：メニューコード編集フラグのチェックオン／オフを切り替えた場合に、メニューコードの活性(ｵﾝ)／非活性(ｵﾌ)を切り替える
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.txt_MenuCode_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：メニューコード編集時処理
+ 機能概要：メニューコード編集時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.txt_OwnCompanyCode_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：自社コード編集時処理
+ 機能概要：自社コード編集時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.txt_Price_Reduce_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：軽減税率 単価編集時処理
+ 機能概要：軽減税率 単価編集時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.txt_SubPrice_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：サブメニュー単価編集時処理
+ 機能概要：サブメニュー単価編集時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.txt_SubPrice_Reduce_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：軽減税率 サブメニュー単価 編集時処理
+ 機能概要：軽減税率 サブメニュー単価編集時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.cmb_TaxType_SelectionChangeCommitted(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：税ステータス 変更時処理
+ 機能概要：税ステータス 変更時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.cmb_TaxType_Reduced_SelectionChangeCommitted(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：税ステータス 変更時処理
+ 機能概要：税ステータス 変更時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.rbt_Ptype_Open_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：ラジオボタン 変更時処理
+ 機能概要：ラジオボタン 変更時に編集フラグの変更と変更内容の書き戻しを行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.09 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.LF_ChkSameMenuCode">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：重複チェック処理
+ 機能概要：グリッド内のメニューコード一覧内に既に登録済のメニューコードがないか確認を行う
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.08.08 ｸﾚｽｺ北陸)takigaura 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL1501.CNL1530.LF_AutomaticCalculationPrice(System.String,System.String@,System.String)">
+	<summary>
+ --------------------------------------------------------------------------------
+ 機　　能：軽減税率単価、軽減税率サブメニュー単価 自動計算処理
+ 機能概要：税ステータス、軽減税率税ステータス、単価、サブメニュー単価の設定時に軽減税率単価、軽減税率サブメニュー単価を自動計算する
+ 引　　数：
+ 戻 り 値：
+ 履　　歴：2019.09.04 クレスコ北陸 新規作成
+ --------------------------------------------------------------------------------
+ </summary>
+	<param name="pPrice">単価またはサブメニュー単価</param>
+	<param name="pRedecePrice">軽減税率計算結果値</param>
+	<param name="pKbn">空白：画面内変更時、"init"：初期表示時</param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

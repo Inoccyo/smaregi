@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CNL1501">
+</Property><Property Name="ソリューション ファイル" Value="C:\Documents and Settings\ks205763\デスクトップ\20110728hirose\CNL1501\CNL1501.sln">
+</Property><Property Name="Date" Value="2011年7月28日">
+</Property><Property Name="Time" Value="10:14">
+</Property></Properties><Event ErrorLevel="0" Project="CNL1501" Source="CNL1501.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="CNL1501" Source="CNL1501.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CNL1501.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="CNL1501.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CNL1501" Source="CNL1501.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="CrossNavi【CNL1501】.vdproj" Source="CrossNavi【CNL1501】\CrossNavi【CNL1501】.vdproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="CrossNavi【CNL1501】.vdproj" Source="CrossNavi【CNL1501】\CrossNavi【CNL1501】.vdproj" Description="Converted">
+</Event></UpgradeLog>

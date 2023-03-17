@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CNWG001">
+</Property><Property Name="ソリューション ファイル" Value="C:\Inetpub\wwwroot\CNWG001\CNWG001.sln">
+</Property><Property Name="Date" Value="2011年7月29日">
+</Property><Property Name="Time" Value="13:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CNWG001.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="CNWG001.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CNWG001" Source="Global.asax.vb.old" Description="バックアップ ファイルが作成されました">
+</Event><Event ErrorLevel="3" Project="CNWG001" Source="Global.asax.vb" Description="Converted">
+</Event><Event ErrorLevel="3" Project="CNWG001" Source="CNWG001.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CNWG001" Source="CNWG001.vbproj" Description="Visual Studio .NET 2003 Web プロジェクトを変換するための最初のステップが完了しました。変換を完了するには、ソリューション エクスプローラでプロジェクトを選択し、ショートカット メニューの [Web アプリケーションに変換] をクリックします。">
+</Event><Event ErrorLevel="0" Project="CrossNavi【TPG001】.vdproj" Source="CrossNavi【TPG001】\CrossNavi【TPG001】.vdproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="CrossNavi【TPG001】.vdproj" Source="CrossNavi【TPG001】\CrossNavi【TPG001】.vdproj" Description="Converted">
+</Event></UpgradeLog>

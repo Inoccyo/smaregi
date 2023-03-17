@@ -1,0 +1,5038 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CNWG001
+</name>
+</assembly>
+<members>
+<member name="F:CNWG001.CNWG022.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table10">
+	<summary>
+btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table9">
+	<summary>
+btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table8">
+	<summary>
+btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table7">
+	<summary>
+btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_10">
+	<summary>
+table_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_9">
+	<summary>
+table_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_8">
+	<summary>
+table_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_7">
+	<summary>
+table_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_TPJ">
+	<summary>
+btn_TPJ コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_Change">
+	<summary>
+btn_Change コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_refresh">
+	<summary>
+btn_refresh コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_5">
+	<summary>
+table_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table5">
+	<summary>
+btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_4">
+	<summary>
+table_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table4">
+	<summary>
+btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_3">
+	<summary>
+table_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table3">
+	<summary>
+btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_2">
+	<summary>
+table_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table2">
+	<summary>
+btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_1">
+	<summary>
+table_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table1">
+	<summary>
+btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.txt_Pos">
+	<summary>
+txt_Pos コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_cancel">
+	<summary>
+btn_cancel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.table_6">
+	<summary>
+table_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_table6">
+	<summary>
+btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.tbl_Yobi1">
+	<summary>
+tbl_Yobi1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.tbl_Yobi2">
+	<summary>
+tbl_Yobi2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_Yobi1">
+	<summary>
+btn_Yobi1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.btn_Yobi2">
+	<summary>
+btn_Yobi2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.Label1">
+	<summary>
+Label1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.Label2">
+	<summary>
+Label2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table1">
+	<summary>
+hdn_btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table2">
+	<summary>
+hdn_btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table3">
+	<summary>
+hdn_btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table4">
+	<summary>
+hdn_btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table5">
+	<summary>
+hdn_btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table6">
+	<summary>
+hdn_btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table7">
+	<summary>
+hdn_btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table8">
+	<summary>
+hdn_btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table9">
+	<summary>
+hdn_btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG022.hdn_btn_table10">
+	<summary>
+hdn_btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.lbl_Seat">
+	<summary>
+lbl_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.lbl_number">
+	<summary>
+lbl_number コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.Label2">
+	<summary>
+Label2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_1">
+	<summary>
+btn_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_2">
+	<summary>
+btn_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_3">
+	<summary>
+btn_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_4">
+	<summary>
+btn_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_5">
+	<summary>
+btn_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_6">
+	<summary>
+btn_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_7">
+	<summary>
+btn_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_8">
+	<summary>
+btn_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_9">
+	<summary>
+btn_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_0">
+	<summary>
+btn_0 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_cls">
+	<summary>
+btn_cls コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG032.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:CNWG001.CNWG050.LS_SetClick">
+	<summary>
+ 決定ボタン処理
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CNWG001.CNWG021.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.lbl_call">
+	<summary>
+lbl_call コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call1">
+	<summary>
+call1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call2">
+	<summary>
+call2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call3">
+	<summary>
+call3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call4">
+	<summary>
+call4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call5">
+	<summary>
+call5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.call6">
+	<summary>
+call6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus1">
+	<summary>
+orderstatus1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus2">
+	<summary>
+orderstatus2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus3">
+	<summary>
+orderstatus3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus4">
+	<summary>
+orderstatus4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus5">
+	<summary>
+orderstatus5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.orderstatus6">
+	<summary>
+orderstatus6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_12">
+	<summary>
+table_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_17">
+	<summary>
+table_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table11">
+	<summary>
+btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table22">
+	<summary>
+btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table21">
+	<summary>
+btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_22">
+	<summary>
+table_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_21">
+	<summary>
+table_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table20">
+	<summary>
+btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_20">
+	<summary>
+table_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table19">
+	<summary>
+btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_19">
+	<summary>
+table_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table18">
+	<summary>
+btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_18">
+	<summary>
+table_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table17">
+	<summary>
+btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table16">
+	<summary>
+btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_16">
+	<summary>
+table_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table15">
+	<summary>
+btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table14">
+	<summary>
+btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table13">
+	<summary>
+btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_15">
+	<summary>
+table_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_14">
+	<summary>
+table_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_13">
+	<summary>
+table_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table12">
+	<summary>
+btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_11">
+	<summary>
+table_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table10">
+	<summary>
+btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table9">
+	<summary>
+btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table8">
+	<summary>
+btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table7">
+	<summary>
+btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_10">
+	<summary>
+table_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_9">
+	<summary>
+table_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_8">
+	<summary>
+table_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_7">
+	<summary>
+table_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_TPJ">
+	<summary>
+btn_TPJ コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_Change">
+	<summary>
+btn_Change コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_23">
+	<summary>
+table_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table23">
+	<summary>
+btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_24">
+	<summary>
+table_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table24">
+	<summary>
+btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_25">
+	<summary>
+table_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table25">
+	<summary>
+btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table26">
+	<summary>
+btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_27">
+	<summary>
+table_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table27">
+	<summary>
+btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_26">
+	<summary>
+table_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_5">
+	<summary>
+table_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table5">
+	<summary>
+btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_4">
+	<summary>
+table_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table4">
+	<summary>
+btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_3">
+	<summary>
+table_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table3">
+	<summary>
+btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_2">
+	<summary>
+table_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table2">
+	<summary>
+btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_1">
+	<summary>
+table_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table1">
+	<summary>
+btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.txt_Pos">
+	<summary>
+txt_Pos コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_cancel">
+	<summary>
+btn_cancel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_table6">
+	<summary>
+btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.table_6">
+	<summary>
+table_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table1">
+	<summary>
+hdn_btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table2">
+	<summary>
+hdn_btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table3">
+	<summary>
+hdn_btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table4">
+	<summary>
+hdn_btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table5">
+	<summary>
+hdn_btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table6">
+	<summary>
+hdn_btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table7">
+	<summary>
+hdn_btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table8">
+	<summary>
+hdn_btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table9">
+	<summary>
+hdn_btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table10">
+	<summary>
+hdn_btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table11">
+	<summary>
+hdn_btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table12">
+	<summary>
+hdn_btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table13">
+	<summary>
+hdn_btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table14">
+	<summary>
+hdn_btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table15">
+	<summary>
+hdn_btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table16">
+	<summary>
+hdn_btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table17">
+	<summary>
+hdn_btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table18">
+	<summary>
+hdn_btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table19">
+	<summary>
+hdn_btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table20">
+	<summary>
+hdn_btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table21">
+	<summary>
+hdn_btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table22">
+	<summary>
+hdn_btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table23">
+	<summary>
+hdn_btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table24">
+	<summary>
+hdn_btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table25">
+	<summary>
+hdn_btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table26">
+	<summary>
+hdn_btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table27">
+	<summary>
+hdn_btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table28">
+	<summary>
+hdn_btn_table28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table29">
+	<summary>
+hdn_btn_table29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table30">
+	<summary>
+hdn_btn_table30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table31">
+	<summary>
+hdn_btn_table31 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table32">
+	<summary>
+hdn_btn_table32 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table33">
+	<summary>
+hdn_btn_table33 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table34">
+	<summary>
+hdn_btn_table34 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table35">
+	<summary>
+hdn_btn_table35 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table36">
+	<summary>
+hdn_btn_table36 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table37">
+	<summary>
+hdn_btn_table37 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table38">
+	<summary>
+hdn_btn_table38 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.hdn_btn_table39">
+	<summary>
+hdn_btn_table39 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.ButtonBack">
+	<summary>
+ButtonBack コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.txt_Msg">
+	<summary>
+txt_Msg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.txt_lane1">
+	<summary>
+txt_lane1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.txt_lane2">
+	<summary>
+txt_lane2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG021.btn_refresh">
+	<summary>
+btn_refresh コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:CNWG001.CNWG051.LS_SetClick">
+	<summary>
+ 決定ボタン処理
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CNWG001.CNWG031.F_CNWG031">
+	<summary>
+F_CNWG031 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG031.lbl_Msg1">
+	<summary>
+lbl_Msg1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG031.lbl_Msg2">
+	<summary>
+lbl_Msg2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG031.lbl_Msg3">
+	<summary>
+lbl_Msg3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG031.btn_Dummy">
+	<summary>
+btn_Dummy コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.txt_Seat">
+	<summary>
+txt_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.Label1">
+	<summary>
+Label1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.txt_number">
+	<summary>
+txt_number コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.Label2">
+	<summary>
+Label2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.Label3">
+	<summary>
+Label3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.txt_number_child">
+	<summary>
+txt_number_child コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.Label4">
+	<summary>
+Label4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.lbl_Msg1">
+	<summary>
+lbl_Msg1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_1">
+	<summary>
+btn_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_2">
+	<summary>
+btn_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_3">
+	<summary>
+btn_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_4">
+	<summary>
+btn_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_5">
+	<summary>
+btn_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_6">
+	<summary>
+btn_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_7">
+	<summary>
+btn_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_8">
+	<summary>
+btn_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_9">
+	<summary>
+btn_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_0">
+	<summary>
+btn_0 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_cls">
+	<summary>
+btn_cls コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.lbl_Msg2">
+	<summary>
+lbl_Msg2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_1_Chi">
+	<summary>
+btn_1_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_2_Chi">
+	<summary>
+btn_2_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_3_Chi">
+	<summary>
+btn_3_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_4_Chi">
+	<summary>
+btn_4_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_5_Chi">
+	<summary>
+btn_5_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_6_Chi">
+	<summary>
+btn_6_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_7_Chi">
+	<summary>
+btn_7_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_8_Chi">
+	<summary>
+btn_8_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_9_Chi">
+	<summary>
+btn_9_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_0_Chi">
+	<summary>
+btn_0_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_cls_Chi">
+	<summary>
+btn_cls_Chi コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG051.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:CNWG001.CNWG490.LF_GetTable(System.String,System.String)">
+	<summary>
+ TPD03X存在チェック
+ </summary>
+	<param name="pTableId"></param>
+	<param name="pGoodsCD"></param>
+	<remarks></remarks>
+</member><member name="F:CNWG001.CNWG020.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_refresh">
+	<summary>
+btn_refresh コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_TPJ">
+	<summary>
+btn_TPJ コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_Change">
+	<summary>
+btn_Change コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_cancel">
+	<summary>
+btn_cancel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.ButtonBack">
+	<summary>
+ButtonBack コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_release">
+	<summary>
+btn_release コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.txt_Pos">
+	<summary>
+txt_Pos コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.lbl_call">
+	<summary>
+lbl_call コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call1">
+	<summary>
+call1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call2">
+	<summary>
+call2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call3">
+	<summary>
+call3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call4">
+	<summary>
+call4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call5">
+	<summary>
+call5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.call6">
+	<summary>
+call6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus1">
+	<summary>
+orderstatus1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus2">
+	<summary>
+orderstatus2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus3">
+	<summary>
+orderstatus3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus4">
+	<summary>
+orderstatus4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus5">
+	<summary>
+orderstatus5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.orderstatus6">
+	<summary>
+orderstatus6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table1">
+	<summary>
+btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table2">
+	<summary>
+btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table3">
+	<summary>
+btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table4">
+	<summary>
+btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table5">
+	<summary>
+btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table6">
+	<summary>
+btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table7">
+	<summary>
+btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table8">
+	<summary>
+btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table9">
+	<summary>
+btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table10">
+	<summary>
+btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table11">
+	<summary>
+btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table12">
+	<summary>
+btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table13">
+	<summary>
+btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table14">
+	<summary>
+btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table15">
+	<summary>
+btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table16">
+	<summary>
+btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table17">
+	<summary>
+btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table18">
+	<summary>
+btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table19">
+	<summary>
+btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table20">
+	<summary>
+btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table21">
+	<summary>
+btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table22">
+	<summary>
+btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table23">
+	<summary>
+btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table24">
+	<summary>
+btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table25">
+	<summary>
+btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table26">
+	<summary>
+btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table27">
+	<summary>
+btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table28">
+	<summary>
+btn_table28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table31">
+	<summary>
+btn_table31 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table32">
+	<summary>
+btn_table32 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table41">
+	<summary>
+btn_table41 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table42">
+	<summary>
+btn_table42 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table51">
+	<summary>
+btn_table51 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table52">
+	<summary>
+btn_table52 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table53">
+	<summary>
+btn_table53 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table54">
+	<summary>
+btn_table54 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table61">
+	<summary>
+btn_table61 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table62">
+	<summary>
+btn_table62 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table71">
+	<summary>
+btn_table71 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table72">
+	<summary>
+btn_table72 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table73">
+	<summary>
+btn_table73 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table74">
+	<summary>
+btn_table74 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table75">
+	<summary>
+btn_table75 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table76">
+	<summary>
+btn_table76 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table77">
+	<summary>
+btn_table77 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table78">
+	<summary>
+btn_table78 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table79">
+	<summary>
+btn_table79 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table80">
+	<summary>
+btn_table80 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table81">
+	<summary>
+btn_table81 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table82">
+	<summary>
+btn_table82 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table83">
+	<summary>
+btn_table83 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table84">
+	<summary>
+btn_table84 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table85">
+	<summary>
+btn_table85 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table86">
+	<summary>
+btn_table86 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table87">
+	<summary>
+btn_table87 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table88">
+	<summary>
+btn_table88 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table89">
+	<summary>
+btn_table89 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table158">
+	<summary>
+btn_table158 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table159">
+	<summary>
+btn_table159 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table160">
+	<summary>
+btn_table160 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table161">
+	<summary>
+btn_table161 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table162">
+	<summary>
+btn_table162 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table163">
+	<summary>
+btn_table163 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table164">
+	<summary>
+btn_table164 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table165">
+	<summary>
+btn_table165 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table166">
+	<summary>
+btn_table166 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table167">
+	<summary>
+btn_table167 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table168">
+	<summary>
+btn_table168 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table169">
+	<summary>
+btn_table169 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table170">
+	<summary>
+btn_table170 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table171">
+	<summary>
+btn_table171 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table172">
+	<summary>
+btn_table172 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table173">
+	<summary>
+btn_table173 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table174">
+	<summary>
+btn_table174 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table175">
+	<summary>
+btn_table175 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table176">
+	<summary>
+btn_table176 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table177">
+	<summary>
+btn_table177 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table178">
+	<summary>
+btn_table178 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table179">
+	<summary>
+btn_table179 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_table180">
+	<summary>
+btn_table180 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.lbl_Msg">
+	<summary>
+lbl_Msg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.Textbox5">
+	<summary>
+Textbox5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.Textbox9">
+	<summary>
+Textbox9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.Textbox10">
+	<summary>
+Textbox10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table1">
+	<summary>
+hdn_btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table2">
+	<summary>
+hdn_btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table3">
+	<summary>
+hdn_btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table4">
+	<summary>
+hdn_btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table5">
+	<summary>
+hdn_btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table6">
+	<summary>
+hdn_btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table7">
+	<summary>
+hdn_btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table8">
+	<summary>
+hdn_btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table9">
+	<summary>
+hdn_btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table10">
+	<summary>
+hdn_btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table11">
+	<summary>
+hdn_btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table12">
+	<summary>
+hdn_btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table13">
+	<summary>
+hdn_btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table14">
+	<summary>
+hdn_btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table15">
+	<summary>
+hdn_btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table16">
+	<summary>
+hdn_btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table17">
+	<summary>
+hdn_btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table18">
+	<summary>
+hdn_btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table19">
+	<summary>
+hdn_btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table20">
+	<summary>
+hdn_btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table21">
+	<summary>
+hdn_btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table22">
+	<summary>
+hdn_btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table23">
+	<summary>
+hdn_btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table24">
+	<summary>
+hdn_btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table25">
+	<summary>
+hdn_btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table26">
+	<summary>
+hdn_btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table27">
+	<summary>
+hdn_btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table28">
+	<summary>
+hdn_btn_table28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table31">
+	<summary>
+hdn_btn_table31 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table32">
+	<summary>
+hdn_btn_table32 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table41">
+	<summary>
+hdn_btn_table41 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table42">
+	<summary>
+hdn_btn_table42 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table51">
+	<summary>
+hdn_btn_table51 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table52">
+	<summary>
+hdn_btn_table52 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table53">
+	<summary>
+hdn_btn_table53 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table54">
+	<summary>
+hdn_btn_table54 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table61">
+	<summary>
+hdn_btn_table61 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table62">
+	<summary>
+hdn_btn_table62 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table71">
+	<summary>
+hdn_btn_table71 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table72">
+	<summary>
+hdn_btn_table72 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table73">
+	<summary>
+hdn_btn_table73 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table74">
+	<summary>
+hdn_btn_table74 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table75">
+	<summary>
+hdn_btn_table75 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table76">
+	<summary>
+hdn_btn_table76 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table77">
+	<summary>
+hdn_btn_table77 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table78">
+	<summary>
+hdn_btn_table78 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table79">
+	<summary>
+hdn_btn_table79 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table80">
+	<summary>
+hdn_btn_table80 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table81">
+	<summary>
+hdn_btn_table81 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table82">
+	<summary>
+hdn_btn_table82 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table83">
+	<summary>
+hdn_btn_table83 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table84">
+	<summary>
+hdn_btn_table84 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table85">
+	<summary>
+hdn_btn_table85 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table86">
+	<summary>
+hdn_btn_table86 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table87">
+	<summary>
+hdn_btn_table87 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table88">
+	<summary>
+hdn_btn_table88 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table89">
+	<summary>
+hdn_btn_table89 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table158">
+	<summary>
+hdn_btn_table158 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table159">
+	<summary>
+hdn_btn_table159 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table160">
+	<summary>
+hdn_btn_table160 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table161">
+	<summary>
+hdn_btn_table161 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table162">
+	<summary>
+hdn_btn_table162 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table163">
+	<summary>
+hdn_btn_table163 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table164">
+	<summary>
+hdn_btn_table164 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table165">
+	<summary>
+hdn_btn_table165 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table166">
+	<summary>
+hdn_btn_table166 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table167">
+	<summary>
+hdn_btn_table167 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table168">
+	<summary>
+hdn_btn_table168 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table169">
+	<summary>
+hdn_btn_table169 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table170">
+	<summary>
+hdn_btn_table170 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table171">
+	<summary>
+hdn_btn_table171 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table172">
+	<summary>
+hdn_btn_table172 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table173">
+	<summary>
+hdn_btn_table173 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table174">
+	<summary>
+hdn_btn_table174 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table175">
+	<summary>
+hdn_btn_table175 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table176">
+	<summary>
+hdn_btn_table176 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table177">
+	<summary>
+hdn_btn_table177 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table178">
+	<summary>
+hdn_btn_table178 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table179">
+	<summary>
+hdn_btn_table179 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.hdn_btn_table180">
+	<summary>
+hdn_btn_table180 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG020.btn_CLOSURE">
+	<summary>
+btn_CLOSURE コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.btn_minus">
+	<summary>
+btn_minus コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.Button1">
+	<summary>
+Button1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.btn_TblChg">
+	<summary>
+btn_TblChg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.txt_Seat">
+	<summary>
+txt_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.lbl_menu">
+	<summary>
+lbl_menu コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.lbl_course">
+	<summary>
+lbl_course コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.lbl_LastOrder_End">
+	<summary>
+lbl_LastOrder_End コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.lbl_Course_End">
+	<summary>
+lbl_Course_End コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.lbl_disp">
+	<summary>
+lbl_disp コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.txt_number">
+	<summary>
+txt_number コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG030.txt_unit">
+	<summary>
+txt_unit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG101.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG101.lbl_Msg">
+	<summary>
+lbl_Msg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG101.lbl_GoodsNM1">
+	<summary>
+lbl_GoodsNM1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG101.lbl_GoodsNM2">
+	<summary>
+lbl_GoodsNM2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.txt_Seat">
+	<summary>
+txt_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_status">
+	<summary>
+lbl_status コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Normal">
+	<summary>
+btn_Normal コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Course">
+	<summary>
+btn_Course コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Menu1">
+	<summary>
+btn_Menu1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Menu2">
+	<summary>
+btn_Menu2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Menu3">
+	<summary>
+btn_Menu3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Menu4">
+	<summary>
+btn_Menu4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Menu5">
+	<summary>
+btn_Menu5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_Menu1">
+	<summary>
+lbl_Menu1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_Menu2">
+	<summary>
+lbl_Menu2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_Menu3">
+	<summary>
+lbl_Menu3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_Menu4">
+	<summary>
+lbl_Menu4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.lbl_Menu5">
+	<summary>
+lbl_Menu5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_MenuID1">
+	<summary>
+btn_MenuID1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_MenuID2">
+	<summary>
+btn_MenuID2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_MenuID3">
+	<summary>
+btn_MenuID3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_MenuID4">
+	<summary>
+btn_MenuID4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_MenuID5">
+	<summary>
+btn_MenuID5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_GOODSCD1">
+	<summary>
+btn_GOODSCD1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_GOODSCD2">
+	<summary>
+btn_GOODSCD2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_GOODSCD3">
+	<summary>
+btn_GOODSCD3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_GOODSCD4">
+	<summary>
+btn_GOODSCD4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_GOODSCD5">
+	<summary>
+btn_GOODSCD5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_FreeDrinkMenuID1">
+	<summary>
+btn_FreeDrinkMenuID1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_FreeDrinkMenuID2">
+	<summary>
+btn_FreeDrinkMenuID2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_FreeDrinkMenuID3">
+	<summary>
+btn_FreeDrinkMenuID3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_FreeDrinkMenuID4">
+	<summary>
+btn_FreeDrinkMenuID4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_FreeDrinkMenuID5">
+	<summary>
+btn_FreeDrinkMenuID5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Prev">
+	<summary>
+btn_Prev コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Next">
+	<summary>
+btn_Next コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.txt_Msg">
+	<summary>
+txt_Msg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_Drink">
+	<summary>
+btn_Drink コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG040.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.txt_Seat">
+	<summary>
+txt_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.txt_number">
+	<summary>
+txt_number コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.txt_unit">
+	<summary>
+txt_unit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_1">
+	<summary>
+btn_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_2">
+	<summary>
+btn_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_3">
+	<summary>
+btn_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_4">
+	<summary>
+btn_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_5">
+	<summary>
+btn_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_6">
+	<summary>
+btn_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_7">
+	<summary>
+btn_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_8">
+	<summary>
+btn_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_9">
+	<summary>
+btn_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_0">
+	<summary>
+btn_0 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_cls">
+	<summary>
+btn_cls コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG050.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_Seat">
+	<summary>
+txt_Seat コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.lbl_status">
+	<summary>
+lbl_status コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.lbl_MenuNM">
+	<summary>
+lbl_MenuNM コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_Main">
+	<summary>
+txt_Main コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_Sub">
+	<summary>
+txt_Sub コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenu1">
+	<summary>
+btn_MMenu1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenu2">
+	<summary>
+btn_MMenu2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenu3">
+	<summary>
+btn_MMenu3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SMenu1">
+	<summary>
+btn_SMenu1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SMenu2">
+	<summary>
+btn_SMenu2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenuID1">
+	<summary>
+btn_MMenuID1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenuID2">
+	<summary>
+btn_MMenuID2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_MMenuID3">
+	<summary>
+btn_MMenuID3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SMenuID1">
+	<summary>
+btn_SMenuID1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SMenuID2">
+	<summary>
+btn_SMenuID2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SGOODSCD1">
+	<summary>
+btn_SGOODSCD1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_SGOODSCD2">
+	<summary>
+btn_SGOODSCD2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_Prev">
+	<summary>
+btn_Prev コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_Next">
+	<summary>
+btn_Next コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_number1">
+	<summary>
+txt_number1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_unit1">
+	<summary>
+txt_unit1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_number2">
+	<summary>
+txt_number2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_unit2">
+	<summary>
+txt_unit2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.txt_Msg">
+	<summary>
+txt_Msg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_Prev2">
+	<summary>
+btn_Prev2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.tbl_Confirm">
+	<summary>
+tbl_Confirm コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.lbl_Confirm">
+	<summary>
+lbl_Confirm コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_true">
+	<summary>
+btn_true コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG060.btn_false">
+	<summary>
+btn_false コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.lbl_head">
+	<summary>
+lbl_head コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table1">
+	<summary>
+btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table2">
+	<summary>
+btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table3">
+	<summary>
+btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table4">
+	<summary>
+btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table5">
+	<summary>
+btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table6">
+	<summary>
+btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table7">
+	<summary>
+btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table8">
+	<summary>
+btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table9">
+	<summary>
+btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table10">
+	<summary>
+btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table11">
+	<summary>
+btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table12">
+	<summary>
+btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table13">
+	<summary>
+btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table14">
+	<summary>
+btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table15">
+	<summary>
+btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table16">
+	<summary>
+btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table17">
+	<summary>
+btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table18">
+	<summary>
+btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table19">
+	<summary>
+btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table20">
+	<summary>
+btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table21">
+	<summary>
+btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table22">
+	<summary>
+btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table23">
+	<summary>
+btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table24">
+	<summary>
+btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table25">
+	<summary>
+btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table26">
+	<summary>
+btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table27">
+	<summary>
+btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table28">
+	<summary>
+btn_table28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table29">
+	<summary>
+btn_table29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table30">
+	<summary>
+btn_table30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table31">
+	<summary>
+btn_table31 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table32">
+	<summary>
+btn_table32 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table33">
+	<summary>
+btn_table33 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table34">
+	<summary>
+btn_table34 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table35">
+	<summary>
+btn_table35 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table36">
+	<summary>
+btn_table36 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table37">
+	<summary>
+btn_table37 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table38">
+	<summary>
+btn_table38 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table39">
+	<summary>
+btn_table39 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.btn_table40">
+	<summary>
+btn_table40 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table1">
+	<summary>
+hdn_btn_table1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table2">
+	<summary>
+hdn_btn_table2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table3">
+	<summary>
+hdn_btn_table3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table4">
+	<summary>
+hdn_btn_table4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table5">
+	<summary>
+hdn_btn_table5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table6">
+	<summary>
+hdn_btn_table6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table7">
+	<summary>
+hdn_btn_table7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table8">
+	<summary>
+hdn_btn_table8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table9">
+	<summary>
+hdn_btn_table9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table10">
+	<summary>
+hdn_btn_table10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table11">
+	<summary>
+hdn_btn_table11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table12">
+	<summary>
+hdn_btn_table12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table13">
+	<summary>
+hdn_btn_table13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table14">
+	<summary>
+hdn_btn_table14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table15">
+	<summary>
+hdn_btn_table15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table16">
+	<summary>
+hdn_btn_table16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table17">
+	<summary>
+hdn_btn_table17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table18">
+	<summary>
+hdn_btn_table18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table19">
+	<summary>
+hdn_btn_table19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table20">
+	<summary>
+hdn_btn_table20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table21">
+	<summary>
+hdn_btn_table21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table22">
+	<summary>
+hdn_btn_table22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table23">
+	<summary>
+hdn_btn_table23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table24">
+	<summary>
+hdn_btn_table24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table25">
+	<summary>
+hdn_btn_table25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table26">
+	<summary>
+hdn_btn_table26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table27">
+	<summary>
+hdn_btn_table27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table28">
+	<summary>
+hdn_btn_table28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table29">
+	<summary>
+hdn_btn_table29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table30">
+	<summary>
+hdn_btn_table30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table31">
+	<summary>
+hdn_btn_table31 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table32">
+	<summary>
+hdn_btn_table32 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table33">
+	<summary>
+hdn_btn_table33 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table34">
+	<summary>
+hdn_btn_table34 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table35">
+	<summary>
+hdn_btn_table35 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table36">
+	<summary>
+hdn_btn_table36 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table37">
+	<summary>
+hdn_btn_table37 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table38">
+	<summary>
+hdn_btn_table38 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table39">
+	<summary>
+hdn_btn_table39 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG080.hdn_btn_table40">
+	<summary>
+hdn_btn_table40 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.txt_number">
+	<summary>
+txt_number コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.txt_unit">
+	<summary>
+txt_unit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_7">
+	<summary>
+btn_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_8">
+	<summary>
+btn_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_9">
+	<summary>
+btn_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_4">
+	<summary>
+btn_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_5">
+	<summary>
+btn_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_6">
+	<summary>
+btn_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_1">
+	<summary>
+btn_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_2">
+	<summary>
+btn_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_3">
+	<summary>
+btn_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_0">
+	<summary>
+btn_0 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_cls">
+	<summary>
+btn_cls コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_Set">
+	<summary>
+btn_Set コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG070.btn_back">
+	<summary>
+btn_back コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.lbl_head">
+	<summary>
+lbl_head コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_1">
+	<summary>
+btn_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_6">
+	<summary>
+btn_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_2">
+	<summary>
+btn_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_7">
+	<summary>
+btn_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_3">
+	<summary>
+btn_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_8">
+	<summary>
+btn_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_4">
+	<summary>
+btn_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_9">
+	<summary>
+btn_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_5">
+	<summary>
+btn_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_10">
+	<summary>
+btn_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_Prev">
+	<summary>
+btn_Prev コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:CNWG001.CNWG100.btn_Next">
+	<summary>
+btn_Next コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナ ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:CNWG001.CNWG030.LS_SetClick">
+	<summary>
+ お会計ボタン処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG030.LF_SetSQLTPD050(System.String)">
+	<summary>
+ 食べ飲み放題対応 閉局時に座席拡張テーブル初期化
+ </summary>
+	<param name="pSeatID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG030.LF_GetTimeLimit(System.String)">
+	<summary>
+ 残り時間取得（分）
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG030.LF_GetTimeLimit_LO(System.String)">
+	<summary>
+ 残り時間取得（分）
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG030.GetMaxTranNo">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG020.LF_GetTimeLimit(System.String)">
+	<summary>
+ 残り時間取得（分）
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG020.LF_GetTimeLimit_LO(System.String)">
+	<summary>
+ 残り時間取得（分）
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG020.GS_Reload">
+	<summary>
+ 画面更新Script追加
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG020.LS_TableClick">
+	<summary>
+ テーブルボタン処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNWG001.CNWG020.LF_GetForEachMenu(System.String@,System.String@,System.String)">
+	<summary>
+ 座席別メニュー設定
+ </summary>
+	<param name="strMenuID"></param>
+	<param name="strSeatID"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

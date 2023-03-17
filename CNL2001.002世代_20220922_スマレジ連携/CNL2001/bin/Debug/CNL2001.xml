@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CNL2001
+</name>
+</assembly>
+<members>
+<member name="T:CNL2001.Json.proc_info_proc_division">
+	<summary>
+ 処理区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.data_rows">
+	<summary>
+ データ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_transactionHeadDivision">
+	<summary>
+ 取引区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_cancelDivision">
+	<summary>
+ 取消区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_subtotal">
+	<summary>
+ 小計
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_total">
+	<summary>
+ 合計
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_taxExclude">
+	<summary>
+ 外税額
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_taxInclude">
+	<summary>
+ 内税額
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_storeId">
+	<summary>
+ 店舗ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_terminalId">
+	<summary>
+ 端末ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_terminalTranId">
+	<summary>
+ 端末取引ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_terminalTranDateTime">
+	<summary>
+ 端末取引日時
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_memo">
+	<summary>
+ メモ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_guestNumbers">
+	<summary>
+ 客数
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_transactionDetailDivision">
+	<summary>
+ 取引明細区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_productId">
+	<summary>
+ 商品ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_taxDivision">
+	<summary>
+ 税区分
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_salesPrice">
+	<summary>
+ 販売単価
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_quantity">
+	<summary>
+ 数量
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.rows_reduceTaxId">
+	<summary>
+ 軽減税率ID
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.transactionGetData_Transaction">
+	<summary>
+ スマレジ取得情報型(取引テーブル用)
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.transactionGetDataTransaction">
+	<summary>
+ スマレジ取引テーブル型
+ </summary>
+	<remarks></remarks>
+</member><member name="T:CNL2001.Json.errorInfo">
+	<summary>
+ エラー情報型
+ </summary>
+	<remarks></remarks>
+</member><member name="P:CNL2001.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:CNL2001.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:CNL2001.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="M:CNL2001.CtrlForm.CtrlForm_Closing">
+	<summary>
+ フォーム終了イベント
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.CheckTPD052(System.Data.DataTable@)">
+	<summary>
+ 精算データ有無チェック
+ </summary>
+	<param name="objDataTable"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.SendTransactionData(System.String,System.String,System.String)">
+	<summary>
+ 精算データ送信
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSeatId"></param>
+	<param name="pTermId"></param>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.UpdSmaregiTransactionData(System.String@,CNL2001.Json.transactionGetData_Transaction@,System.String,System.String,System.String)">
+	<summary>
+ スマレジ取引情報を更新する（取引(TransactionHead)、取引明細（TransactionDetail））
+ </summary>
+	<param name="smaregiTransactionText"></param>
+	<param name="smaregiTransaction"></param>
+	<param name="pTranId"></param>
+	<param name="pSeatId"></param>
+	<param name="pTermId"></param>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.UpdSmaregiInfo(CNL2001.Json.SmaregiRefParamsJson,CNL2001.Json.SmaregiRefParamsJsonRowsHead,CNL2001.Json.SmaregiRefParamsJsonRowsDetail,System.String@,System.String,System.String,System.String)">
+	<summary>
+ スマレジの更新結果情報を取得し、文字列の状態で返却する
+ </summary>
+	<param name="smaregiRef"></param>
+	<param name="smaregiRefRowsHead"></param>
+	<param name="smaregiRefRowsDetail"></param>
+	<param name="statusValue"></param>
+	<param name="pTranId"></param>
+	<param name="pSeatId"></param>
+	<param name="pTermId"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetGuestNumbers(System.String,System.String,System.String,System.String@)">
+	<summary>
+ 客数取得
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSEATID"></param>
+	<param name="pTERMID"></param>
+	<param name="pPERSONNUMBER"></param>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetTotal(System.String,System.String,System.String,System.String)">
+	<summary>
+ 合計金額取得
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSEATID"></param>
+	<param name="pTERMID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetTaxExclude(System.String,System.String,System.String)">
+	<summary>
+ 消費税取得
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSEATID"></param>
+	<param name="pTERMID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetSeisanData(System.String,System.String,System.String,System.Data.DataTable@)">
+	<summary>
+ 精算データ取得
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSEATID"></param>
+	<param name="pTERMID"></param>
+	<param name="objDataTable"></param>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetApValue(System.String)">
+	<summary>
+ 汎用マスタ値取得(TPM090)
+ </summary>
+	<param name="pApKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.UpdateTPD052(System.String,System.String,System.String)">
+	<summary>
+ 送信済精算データ消去
+ </summary>
+	<param name="pTranId"></param>
+	<param name="pSEATID"></param>
+	<param name="pTERMID"></param>
+	<remarks></remarks>
+</member><member name="M:CNL2001.CtrlForm.GetCLMODE">
+	<summary>
+ システム稼働状況の確認
+ </summary>
+	<returns>True:システム停止中 False:システム起動中</returns>
+	<remarks></remarks>
+</member><member name="M:CNL2001.OutLog.#ctor(System.String)">
+	<summary>
+ コンストラクタ
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CNWA001">
+</Property><Property Name="ソリューション ファイル" Value="C:\Inetpub\wwwroot\CNWA001\CNWA001.sln">
+</Property><Property Name="Date" Value="2011年7月29日">
+</Property><Property Name="Time" Value="9:41:47">
+</Property><Property Name="ログ番号" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="CNWA001" Source="Global.asax.vb.old" Description="バックアップ ファイルが作成されました">
+</Event><Event ErrorLevel="3" Project="CNWA001" Source="Global.asax.vb" Description="Converted">
+</Event><Event ErrorLevel="3" Project="CNWA001" Source="CNWA001.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CNWA001" Source="CNWA001.vbproj" Description="Visual Studio .NET 2003 Web プロジェクトを変換するための最初のステップが完了しました。変換を完了するには、ソリューション エクスプローラでプロジェクトを選択し、ショートカット メニューの [Web アプリケーションに変換] をクリックします。">
+</Event></UpgradeLog>
